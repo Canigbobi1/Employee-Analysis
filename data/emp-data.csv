@@ -1,0 +1,1017 @@
+Name,Gender,Department,Salary,Location,Rating
+Adella Eze,Female,Services,43580,Lagos,Poor
+Femi Bello,Male,Support,54310,Lagos,Not Rated
+Uche Ibrahim,Male,Business Development,128900,Lagos,Average
+Uche Gamlin,Male,Sales,78530,Abuja,Not Rated
+Marlie Yitzhok,Male,Business Development,,Abuja,Average
+Rayna Ibrahim,Female,Support,,Lagos,Good
+Sidoney Adeyemi,Female,Engineering,133190,Lagos,Not Rated
+Yetunde Adeyemi,Female,Sales,81400,Lagos,Very Good
+Ches Bonnell,Male,Operations,33760,Lagos,Good
+Sidoney Yitzhok,Female,Sales,45050,Lagos,Not Rated
+Emeka Nwosu,Male,Business Development,82320,Abuja,Poor
+Bola Engleton,Male,Services,55600,Kaduna,Average
+Tunde Grigorey,Male,Legal,118610,Lagos,Average
+Chukwu Grigorey,Male,Support,51600,Lagos,Very Good
+Aisha Charsley,Female,Finance,,Abuja,Average
+Chisom Musa,Female,NULL,103050,Abuja,Poor
+Adella Fisby,Female,Marketing,63590,Kaduna,Average
+Emmanuel Gamlin,Male,Support,65780,Abuja,Average
+Willi Charsley,Female,Sales,80070,Lagos,Poor
+Emmanuel Vasey,Male,Business Development,106810,Lagos,Good
+Chukwu Musa,Male,Engineering,102960,Lagos,Not Rated
+Aisha Okafor,Female,Support,59510,Lagos,Average
+Rayna Okafor,Female,Engineering,85620,Kaduna,Good
+Blessing Fisby,Female,Business Development,109700,Kaduna,Average
+Aisha Bonnell,Female,Business Development,115390,Abuja,Average
+Chukwu Peasegood,Male,Engineering,94550,Abuja,Good
+Willi Grigorey,,Human Resources,,Lagos,Poor
+Chisom Vasey,Female,Sales,41630,Lagos,Not Rated
+Chukwu Yitzhok,Male,Legal,113420,Abuja,Not Rated
+Marlie Musa,Male,Sales,98420,Lagos,Good
+Ngozi Hacker,Female,Sales,56100,Abuja,Very Good
+Amaka Charsley,Female,Engineering,114290,Lagos,Poor
+Emeka Obi,Male,Support,68260,Lagos,Average
+Ada Adeyemi,,Sales,75390,Abuja,Average
+Tunde Obi,Male,Engineering,95400,Abuja,Not Rated
+Adella Engleton,Female,Sales,99930,Lagos,Good
+Rayna Peasegood,Female,Finance,64810,Kaduna,Average
+Samuel Grigorey,Male,Support,46750,Abuja,Poor
+Ngozi Bonnell,Female,Sales,71080,Abuja,Poor
+David Bonnell,Male,Finance,60970,Lagos,Average
+Ngozi Obi,Female,Support,61150,Lagos,Not Rated
+Garwin Eze,Male,Sales,,Lagos,Good
+Tunde Okafor,Male,Support,52250,Lagos,Average
+Emeka Ibrahim,Male,Human Resources,39340,Kaduna,Poor
+Garwin Charsley,Male,Business Development,69680,Lagos,Good
+David Charsley,Male,Business Development,78160,Lagos,Very Good
+Yetunde Blumson,Female,Engineering,100940,Lagos,Very Good
+Yetunde Bonnell,Female,Marketing,66510,Lagos,Not Rated
+Amaka Obi,Female,Support,45540,Kaduna,Good
+Blessing Bello,,Engineering,151640,Lagos,Average
+Rasla Gamlin,Male,Support,75600,Lagos,Good
+Aisha Vasey,Female,Legal,95340,Abuja,Good
+Bola Hacker,Male,NULL,121360,Lagos,Poor
+Chisom Yitzhok,,Finance,68510,Kaduna,Not Rated
+Gardy Peasegood,Female,Marketing,48170,Kaduna,Average
+Gardy Gamlin,Female,Business Development,55750,Lagos,Not Rated
+Marlie Obi,Male,Support,47220,Kaduna,Very Good
+Bola Nwosu,Male,Services,59360,Lagos,Good
+Emmanuel Peasegood,Male,Finance,106090,Lagos,Not Rated
+Garwin Hartshorne,Male,Sales,65840,Lagos,Very Good
+Uche Yitzhok,Male,Legal,95200,Lagos,Average
+Emmanuel Engleton,Male,Human Resources,53630,Abuja,Very Good
+Chukwu Peasegood,Male,Marketing,64520,Lagos,Average
+Fatima Engleton,Female,Services,64210,Kaduna,Not Rated
+Ngozi Fisby,Female,Human Resources,66350,Abuja,Good
+Emmanuel Eze,Male,Engineering,55090,Lagos,Average
+Samuel Fisby,Male,Engineering,97170,Abuja,Good
+Rasla Fisby,Female,Sales,41970,Kaduna,Average
+Garwin Yitzhok,Female,Engineering,116470,Lagos,Good
+Gardy Fisby,Female,Services,68520,Lagos,Average
+Fatima Musa,Female,Marketing,47800,Lagos,Not Rated
+Ngozi Bonnell,Female,Sales,79490,Lagos,Very Good
+Ches Bello,Male,Engineering,71860,Abuja,Not Rated
+Garwin Hacker,Male,Sales,,Lagos,Very Good
+Chisom Blumson,Female,Finance,75240,Abuja,Not Rated
+Femi Obi,Male,Services,71340,Lagos,Very Good
+James Nwosu,Male,Business Development,82940,Lagos,Good
+Femi Grigorey,Male,Finance,,Lagos,Average
+Femi Musa,Male,Sales,76400,Abuja,Good
+Adella Peasegood,Female,Support,71030,Abuja,Poor
+Saunders Engleton,Male,Support,69280,Kaduna,Average
+Adella Hacker,Female,Support,62700,Abuja,Average
+Uche Charsley,Male,Services,36000,Kaduna,Average
+Chukwu Grigorey,Male,Business Development,69920,Lagos,Good
+Fatima Bello,Female,Engineering,82630,Abuja,Good
+Chisom Vasey,Female,Sales,76290,Lagos,Very Good
+Blessing Blumson,Female,Human Resources,53310,Kaduna,Very Good
+Ches Yitzhok,Male,Engineering,51340,Lagos,Good
+Chisom Yitzhok,Female,Business Development,107070,Abuja,Not Rated
+Marlie Peasegood,Male,Support,61960,Kaduna,Average
+Emmanuel Adeyemi,Male,Services,42070,Lagos,Average
+Uche Hacker,Male,Legal,109730,Lagos,Good
+Adella Gamlin,Female,Sales,53010,Lagos,Average
+Adella Yitzhok,Female,Engineering,107940,Lagos,Average
+Marlie Bello,Male,Sales,74010,Kaduna,Very Good
+Emeka Hacker,Male,Engineering,99810,Kaduna,Not Rated
+Aisha Vasey,Female,Support,70590,Lagos,Average
+Chisom Yitzhok,Female,Legal,110020,Kaduna,Very Good
+Selby Ibrahim,Male,Services,40460,Kaduna,Good
+Sidoney Hartshorne,Female,NULL,36740,Kaduna,Good
+Rayna Gamlin,Female,Business Development,104160,Lagos,Poor
+Blessing Blumson,Female,Business Development,73420,Lagos,Good
+Aisha Vasey,Female,Support,54120,Abuja,Not Rated
+Gardy Gamlin,Female,Engineering,99780,Kaduna,Very Good
+Gardy Gamlin,Female,Operations,52300,Lagos,Very Good
+Femi Hacker,Male,Sales,58240,Lagos,Very Good
+Marlie Peasegood,Male,NULL,85420,Lagos,Very Good
+Gardy Okafor,,Sales,55110,Lagos,Good
+Samuel Nwosu,Male,Support,40160,Abuja,Average
+Samuel Blumson,Male,Business Development,86460,Kaduna,Good
+Chisom Vasey,,Support,64520,Lagos,Good
+Emeka Nwosu,Male,Support,72180,Lagos,Average
+Ada Nwosu,,Legal,107840,Kaduna,Good
+Adella Charsley,Female,Sales,91110,Lagos,Not Rated
+Chukwu Engleton,Male,Services,40910,Abuja,Very Good
+Rasla Peasegood,Male,Business Development,70350,Lagos,Average
+Marlie Bonnell,Male,Human Resources,68780,Lagos,Very Good
+Amaka Blumson,Female,Finance,89860,Lagos,Good
+Emmanuel Blumson,Male,Sales,87020,Lagos,Average
+Selby Musa,Male,Engineering,74170,Lagos,Very Good
+Gardy Adeyemi,Female,Business Development,81750,Lagos,Good
+Garwin Obi,Female,Services,52740,Lagos,Not Rated
+Rayna Peasegood,,Support,55100,Lagos,Good
+Ches Hacker,Male,Business Development,105660,Lagos,Good
+James Okafor,Male,Business Development,59880,Lagos,Average
+Emmanuel Musa,Male,Support,70760,Lagos,Not Rated
+Amaka Okafor,Female,Services,42010,Kaduna,Average
+Sidoney Musa,Female,Engineering,93070,Kaduna,Good
+David Peasegood,Male,Services,57980,Lagos,Very Good
+Rayna Hartshorne,Female,Legal,103870,Abuja,Average
+Rayna Engleton,Female,Human Resources,64190,Abuja,Very Good
+Ngozi Hacker,Female,Human Resources,53260,Kaduna,Not Rated
+Garwin Blumson,Female,Human Resources,57120,Kaduna,Not Rated
+Ada Gamlin,,Services,71060,Kaduna,Good
+Ches Fisby,Male,Sales,30680,Lagos,Not Rated
+Fatima Fisby,Female,Engineering,64190,Kaduna,Good
+Ada Obi,Female,Engineering,76220,Abuja,Poor
+Aisha Ibrahim,Female,Marketing,92690,Abuja,Good
+Gardy Fisby,,Human Resources,50440,Abuja,Good
+Garwin Yitzhok,Male,Sales,49120,Kaduna,Good
+Emmanuel Adeyemi,Male,Services,57520,Kaduna,Poor
+Blessing Nwosu,Female,Business Development,,Abuja,Very Good
+Blessing Nwosu,Female,Finance,102640,Lagos,Average
+Sidoney Musa,Female,Engineering,112260,Lagos,Very Good
+Femi Okafor,Male,Marketing,77520,Abuja,Average
+Ches Eze,Male,Engineering,83090,Kaduna,Average
+Femi Bonnell,Male,Sales,51420,Abuja,Poor
+Rasla Adeyemi,Female,Human Resources,66720,Lagos,Good
+Garwin Bonnell,Male,Sales,83550,Lagos,Very Good
+Saunders Fisby,Male,Business Development,80900,Abuja,Good
+Bola Blumson,Male,Sales,,Lagos,Good
+Rayna Hartshorne,Female,Sales,51580,Lagos,Not Rated
+Sidoney Grigorey,Female,Business Development,85740,Lagos,Not Rated
+Gardy Hacker,Female,Marketing,77470,Lagos,Average
+Chisom Nwosu,Female,Business Development,76980,Kaduna,Poor
+Bola Gamlin,Male,Business Development,92520,Lagos,Good
+Chisom Yitzhok,Female,Marketing,58610,Lagos,Very Good
+Femi Adeyemi,Male,Legal,100730,Abuja,Good
+Adella Blumson,Female,Engineering,134070,Lagos,Very Good
+Blessing Grigorey,Female,Services,57860,Lagos,Poor
+Rasla Grigorey,Male,Human Resources,25000,Abuja,Good
+Chisom Ibrahim,Female,Services,49040,Lagos,Average
+Sidoney Fisby,Female,Services,44220,Abuja,Very Good
+Tunde Bello,Male,Services,61440,Kaduna,Not Rated
+Ches Peasegood,Male,Engineering,107220,Lagos,Good
+Ngozi Bello,Female,Sales,77620,Kaduna,Good
+Bola Bonnell,Male,NULL,,Lagos,Average
+Samuel Musa,Male,Marketing,64810,Abuja,Good
+Bola Fisby,Male,Services,59530,Abuja,Average
+David Hacker,Male,Sales,76910,Kaduna,Poor
+Femi Grigorey,Male,Sales,28500,Lagos,Very Good
+Emmanuel Yitzhok,Male,Human Resources,30860,Kaduna,Not Rated
+Yetunde Gamlin,Female,Human Resources,72280,Abuja,Not Rated
+Adella Hacker,Female,Services,53340,Kaduna,Average
+Adella Peasegood,Female,Engineering,99860,Kaduna,Very Good
+Ngozi Blumson,Female,Support,61240,Lagos,Average
+Sidoney Grigorey,Female,Services,67880,Abuja,Good
+Bola Adeyemi,Male,Sales,75270,Lagos,Average
+Uche Vasey,Male,Engineering,67380,Abuja,Average
+Willi Nwosu,Female,Support,,Lagos,Poor
+Saunders Okafor,Male,Engineering,101030,Abuja,Very Good
+Rayna Eze,Female,Finance,69500,Lagos,Good
+Sidoney Okafor,,Engineering,54400,Lagos,Average
+Adella Okafor,Female,Legal,145820,Abuja,Good
+Chukwu Grigorey,Male,Business Development,45360,Lagos,Good
+Chisom Obi,Female,Sales,71170,Abuja,Not Rated
+Femi Peasegood,Male,Services,54130,Kaduna,Average
+Rasla Nwosu,Male,Sales,61980,Abuja,Not Rated
+David Okafor,Male,Finance,107910,Abuja,Average
+Samuel Engleton,Male,Sales,,Lagos,Good
+Emeka Engleton,Male,Sales,63160,Lagos,Average
+Fatima Hartshorne,Female,Human Resources,60660,Lagos,Average
+Garwin Yitzhok,Male,Business Development,45980,Abuja,Average
+Adella Peasegood,Female,Support,49110,Lagos,Poor
+Emmanuel Yitzhok,Male,Support,49340,Lagos,Very Good
+Garwin Yitzhok,Male,Business Development,72190,Abuja,Not Rated
+Ada Ibrahim,Female,Support,49620,Kaduna,Very Good
+Amaka Okafor,Female,Support,79340,Lagos,Good
+Garwin Nwosu,Female,Engineering,100220,Abuja,Good
+Garwin Vasey,Male,Legal,130100,Abuja,Average
+Rayna Okafor,Female,Legal,67800,Kaduna,Good
+Emmanuel Okafor,Male,Support,49630,Lagos,Good
+Emeka Hacker,Male,Business Development,60520,Lagos,Average
+Chukwu Hartshorne,Male,Services,43310,Lagos,Not Rated
+Saunders Yitzhok,Male,Services,69110,Lagos,Very Good
+Ada Musa,Female,Finance,105440,Abuja,Average
+Chisom Gamlin,Female,Finance,100240,Abuja,Very Good
+Sidoney Musa,Female,Finance,48190,Abuja,Average
+Fatima Hartshorne,Female,Sales,74680,Lagos,Good
+Fatima Charsley,Female,Legal,89180,Abuja,Good
+Sidoney Hartshorne,Female,Human Resources,81220,Lagos,Very Good
+Gardy Engleton,Female,Support,56580,Abuja,Good
+Bola Nwosu,,Services,48660,Abuja,Poor
+Aisha Engleton,Female,Operations,65620,Lagos,Average
+Rayna Vasey,Female,Sales,59610,Kaduna,Not Rated
+Chukwu Eze,Male,Legal,83360,Kaduna,Very Good
+Marlie Peasegood,Male,Marketing,46950,Kaduna,Good
+Chukwu Fisby,Male,Support,37110,Abuja,Good
+Adella Peasegood,Female,Legal,88860,Lagos,Very Good
+Chisom Grigorey,Female,Finance,122600,Lagos,Average
+Saunders Ibrahim,Male,Sales,55100,Lagos,Not Rated
+Ngozi Peasegood,Female,Sales,75640,Kaduna,Poor
+Adella Fisby,Female,Sales,76770,Lagos,Not Rated
+Emmanuel Yitzhok,Male,Operations,61480,Kaduna,Not Rated
+Adella Grigorey,Female,Sales,39300,Abuja,Average
+Chisom Vasey,Female,Legal,77060,Abuja,Not Rated
+Yetunde Vasey,Female,Finance,98780,Abuja,Average
+Fatima Adeyemi,Female,Legal,146340,Abuja,Good
+Fatima Fisby,Female,Sales,48390,Abuja,Average
+Ada Eze,Female,Legal,114800,Kaduna,Good
+Samuel Charsley,Male,Sales,50020,Lagos,Average
+Ada Hacker,Female,Human Resources,59440,Kaduna,Not Rated
+Ada Adeyemi,Female,Support,35080,Kaduna,Poor
+James Bello,Male,NULL,108350,Lagos,Very Good
+Ches Bello,Male,Business Development,99290,Abuja,Very Good
+Rasla Bello,Female,Finance,95860,Abuja,Poor
+Uche Fisby,Male,Support,55850,Lagos,Average
+Aisha Vasey,Female,Support,52410,Kaduna,Not Rated
+Garwin Engleton,Male,Finance,76470,Lagos,Good
+Ngozi Gamlin,Female,Finance,74840,Lagos,Good
+Fatima Charsley,Female,Business Development,78610,Abuja,Very Good
+Adella Obi,Female,Human Resources,59420,Abuja,Average
+Blessing Blumson,Female,NULL,34780,Lagos,Very Good
+Adella Grigorey,Female,Marketing,52630,Lagos,Average
+Rayna Adeyemi,,Engineering,91010,Lagos,Average
+Femi Gamlin,Male,Engineering,91230,Abuja,Good
+Garwin Musa,Female,Sales,80360,Kaduna,Good
+Rasla Ibrahim,Female,Legal,106530,Kaduna,Average
+Gardy Yitzhok,Female,Support,54300,Lagos,Average
+Emeka Hacker,Male,Sales,89720,Abuja,Poor
+Emmanuel Obi,Male,Legal,87030,Abuja,Not Rated
+Ada Bello,Female,Support,25000,Lagos,Good
+Rasla Yitzhok,Male,Operations,52850,Kaduna,Good
+Samuel Musa,,Marketing,58090,Lagos,Very Good
+Ches Bonnell,Male,Sales,74790,Lagos,Good
+Amaka Gamlin,Female,Legal,78660,Lagos,Good
+Ada Eze,Female,Business Development,100140,Lagos,Poor
+Femi Grigorey,Male,Human Resources,42820,Kaduna,Very Good
+David Hartshorne,Male,Services,55420,Kaduna,Very Good
+Willi Hartshorne,Female,Finance,29870,Abuja,Very Good
+Sidoney Nwosu,Female,Legal,103920,Lagos,Good
+Garwin Nwosu,Female,Services,38870,Lagos,Very Good
+Chisom Bello,Female,NULL,50430,Lagos,Not Rated
+Blessing Charsley,Female,Sales,95090,Kaduna,Average
+Rayna Musa,Female,Services,40710,Lagos,Not Rated
+Amaka Gamlin,Female,Sales,90550,Kaduna,Poor
+Garwin Musa,Female,Engineering,,Lagos,Good
+Ches Peasegood,Male,Sales,72730,Abuja,Very Good
+Emeka Gamlin,Male,Engineering,81580,Lagos,Good
+Yetunde Bello,,Marketing,74930,Kaduna,Good
+James Hartshorne,Male,Finance,146780,Lagos,Average
+Rayna Fisby,Female,Engineering,97070,Abuja,Good
+Ada Vasey,Female,Marketing,57380,Lagos,Good
+Uche Engleton,Male,Sales,25000,Kaduna,Good
+Ada Ibrahim,Female,Engineering,77160,Kaduna,Poor
+Aisha Fisby,,Support,71580,Kaduna,Average
+Samuel Ibrahim,Male,Sales,104770,Lagos,Good
+Ches Musa,Male,Legal,88750,Abuja,Good
+Fatima Musa,Female,Support,44100,Abuja,Poor
+Garwin Engleton,Male,Business Development,90250,Lagos,Very Good
+Sidoney Adeyemi,Female,Business Development,104070,Lagos,Not Rated
+Yetunde Fisby,Female,Operations,74490,Abuja,Not Rated
+Selby Obi,Male,Support,97260,Abuja,Good
+Rayna Peasegood,Female,Business Development,88990,Kaduna,Very Good
+Yetunde Yitzhok,Female,Services,38390,Lagos,Good
+Marlie Adeyemi,Male,Business Development,58510,Abuja,Average
+Rayna Bonnell,Female,Engineering,69070,Abuja,Average
+Fatima Obi,Female,Support,50460,Lagos,Average
+Gardy Blumson,Female,Business Development,89560,Abuja,Good
+Aisha Charsley,Female,Support,60630,Lagos,Good
+Chukwu Peasegood,Male,Finance,99660,Lagos,Average
+Aisha Eze,Female,Support,67200,Kaduna,Good
+David Eze,Male,Engineering,112780,Kaduna,Good
+Chukwu Fisby,Male,Sales,75070,Abuja,Not Rated
+Adella Ibrahim,Female,Engineering,67990,Kaduna,Very Good
+Aisha Okafor,Female,Human Resources,45410,Abuja,Average
+James Okafor,Male,Support,26760,Kaduna,Not Rated
+Chisom Obi,Female,Services,67460,Abuja,Average
+Bola Nwosu,Male,Legal,82570,Lagos,Good
+Ngozi Charsley,Female,Business Development,106970,Kaduna,Average
+Blessing Hacker,Female,Legal,116040,Abuja,Good
+Selby Obi,Male,Marketing,57560,Abuja,Average
+Fatima Bonnell,Female,Engineering,110650,Lagos,Good
+Chisom Bonnell,Female,Finance,71000,Lagos,Average
+Uche Charsley,Male,Support,89250,Lagos,Very Good
+Aisha Obi,Female,Engineering,117790,Lagos,Not Rated
+Bola Hacker,Male,Marketing,82130,Abuja,Poor
+James Vasey,Male,Legal,124570,Abuja,Good
+Rasla Yitzhok,Female,Services,46490,Kaduna,Poor
+Chukwu Engleton,Male,NULL,88510,Lagos,Good
+Garwin Obi,Female,Marketing,70980,Abuja,Not Rated
+Selby Okafor,Male,Sales,102120,Lagos,Very Good
+Adella Gamlin,Female,Finance,99810,Kaduna,Very Good
+Adella Yitzhok,Female,Sales,56690,Abuja,Average
+David Adeyemi,,Engineering,104910,Abuja,Average
+Tunde Vasey,Male,Support,25000,Lagos,Good
+Rasla Vasey,Male,NULL,69170,Lagos,Good
+Garwin Bello,Male,Services,50620,Lagos,Not Rated
+Adella Adeyemi,Female,Engineering,,Lagos,Very Good
+Ngozi Adeyemi,Female,Sales,99270,Abuja,Average
+Chisom Vasey,,Sales,101400,Kaduna,Good
+Tunde Eze,Male,Sales,60060,Abuja,Average
+Chisom Vasey,Female,Business Development,76170,Lagos,Poor
+Saunders Charsley,Male,Sales,67090,Lagos,Poor
+Rayna Blumson,Female,Business Development,,Abuja,Very Good
+Blessing Bonnell,Female,Engineering,81230,Kaduna,Good
+Rasla Nwosu,Female,Sales,54470,Lagos,Good
+Bola Yitzhok,Male,Support,47900,Lagos,Good
+Bola Bello,Male,Services,61690,Abuja,Very Good
+Adella Peasegood,Female,Business Development,51400,Abuja,Very Good
+Garwin Ibrahim,Female,Support,40730,Lagos,Very Good
+Rayna Peasegood,Female,Engineering,96540,Lagos,Not Rated
+Willi Charsley,Female,Support,,Lagos,Average
+Fatima Yitzhok,Female,Marketing,61180,Abuja,Very Good
+Garwin Grigorey,,Business Development,106220,Lagos,Not Rated
+Marlie Grigorey,Male,Legal,76640,Abuja,Average
+Ngozi Peasegood,Female,Services,38790,Abuja,Poor
+Tunde Charsley,Male,Support,58810,Kaduna,Very Good
+Garwin Grigorey,Female,Business Development,68470,Abuja,Good
+James Engleton,Male,Engineering,61770,Abuja,Good
+Rasla Peasegood,Female,Legal,69440,Lagos,Good
+Chukwu Peasegood,Male,Human Resources,58690,Abuja,Average
+Blessing Okafor,Female,Sales,91360,Abuja,Poor
+Adella Charsley,Female,Services,31950,Lagos,Not Rated
+James Nwosu,Male,Services,49750,Kaduna,Average
+Yetunde Okafor,Female,Operations,58320,Lagos,Good
+Gardy Hartshorne,Female,Services,50790,Lagos,Average
+Rayna Yitzhok,Female,Human Resources,52760,Lagos,Poor
+Chisom Ibrahim,Female,Human Resources,53110,Lagos,Very Good
+Emeka Nwosu,Male,Human Resources,,Abuja,Not Rated
+Emmanuel Bello,Male,Marketing,82950,Lagos,Average
+Chisom Adeyemi,Female,NULL,55980,Lagos,Good
+Uche Engleton,Male,Finance,98090,Kaduna,Average
+Fatima Yitzhok,Female,Legal,123960,Kaduna,Poor
+Sidoney Nwosu,Female,Sales,83470,Lagos,Good
+Ada Bello,Female,Engineering,109900,Lagos,Very Good
+Adella Bonnell,Female,Support,63170,Abuja,Average
+Aisha Ibrahim,Female,Support,59440,Lagos,Average
+Bola Ibrahim,Male,Support,74320,Lagos,Very Good
+Gardy Fisby,Female,Human Resources,42200,Abuja,Average
+Adella Hartshorne,Female,Sales,44760,Abuja,Average
+Blessing Charsley,Female,Operations,47090,Abuja,Good
+David Hartshorne,Male,Support,47420,Lagos,Good
+Ches Okafor,Male,Sales,39100,Lagos,Poor
+Garwin Peasegood,Female,Engineering,82590,Lagos,Average
+Marlie Charsley,Male,Services,68080,Lagos,Poor
+Bola Charsley,Male,Legal,61300,Lagos,Average
+Rasla Nwosu,Female,Support,75430,Kaduna,Average
+Willi Charsley,Female,Marketing,69060,Lagos,Good
+Rasla Charsley,Male,Support,42590,Abuja,Average
+Bola Hacker,Male,Support,60100,Kaduna,Very Good
+Bola Obi,Male,Engineering,93540,Lagos,Average
+Garwin Musa,Female,Services,56180,Abuja,Not Rated
+Willi Hacker,Female,Services,33100,Abuja,Good
+David Adeyemi,Male,Legal,92430,Abuja,Very Good
+Gardy Ibrahim,Female,Legal,91530,Lagos,Good
+Ngozi Ibrahim,Female,Services,63860,Lagos,Poor
+Rasla Adeyemi,Female,Services,37390,Abuja,Average
+Ada Bonnell,Female,Business Development,51870,Abuja,Average
+James Ibrahim,Male,Marketing,,Abuja,Very Good
+Marlie Grigorey,Male,Engineering,50100,Lagos,Very Good
+Garwin Bonnell,Male,Legal,107070,Lagos,Good
+Garwin Grigorey,Male,Legal,85180,Lagos,Good
+Bola Grigorey,Male,Support,80280,Abuja,Poor
+Rasla Hartshorne,Female,Engineering,109150,Lagos,Not Rated
+Bola Eze,Male,Human Resources,45760,Abuja,Average
+Emeka Peasegood,Male,Support,26670,Lagos,Very Good
+Fatima Gamlin,Female,Engineering,108770,Kaduna,Not Rated
+Adella Yitzhok,Female,Business Development,95460,Lagos,Good
+Marlie Ibrahim,Male,Business Development,88050,Kaduna,Good
+Rasla Engleton,Male,Sales,83690,Lagos,Average
+Uche Bonnell,Male,Human Resources,73940,Kaduna,Average
+Garwin Hacker,Female,Human Resources,65800,Lagos,Average
+Adella Engleton,Female,Sales,57660,Kaduna,Average
+Tunde Bello,Male,Engineering,120690,Lagos,Very Good
+Chisom Vasey,Female,Services,43420,Kaduna,Average
+Femi Hartshorne,Male,Engineering,81530,Kaduna,Not Rated
+Gardy Blumson,Female,Engineering,91220,Abuja,Good
+Uche Gamlin,Male,Sales,96830,Lagos,Average
+Rasla Grigorey,Female,Support,65310,Lagos,Average
+Adella Charsley,Female,Operations,53940,Kaduna,Good
+Femi Eze,Male,Support,90980,Kaduna,Very Good
+Rasla Vasey,Female,Business Development,99040,Abuja,Not Rated
+Samuel Ibrahim,Male,Business Development,76480,Lagos,Very Good
+Samuel Grigorey,Male,Support,71990,Abuja,Good
+Emeka Hacker,Male,NULL,77850,Lagos,Very Good
+Chisom Hacker,Female,Sales,72900,Lagos,Very Good
+Fatima Obi,Female,Services,44590,Kaduna,Average
+Rasla Bonnell,Female,Business Development,92710,Lagos,Not Rated
+Femi Bonnell,Male,Support,68890,Abuja,Very Good
+Blessing Okafor,Female,Support,89450,Lagos,Not Rated
+Garwin Engleton,Female,Support,39910,Kaduna,Good
+Fatima Ibrahim,Female,Support,60580,Abuja,Very Good
+Samuel Grigorey,Male,Business Development,102460,Lagos,Very Good
+Samuel Bonnell,Male,Legal,106650,Abuja,Average
+Blessing Engleton,Female,Services,38160,Lagos,Very Good
+Adella Ibrahim,Female,Sales,72970,Abuja,Very Good
+Saunders Hacker,Male,Sales,90080,Kaduna,Good
+Saunders Eze,Male,Engineering,98040,Kaduna,Not Rated
+Amaka Bello,Female,Human Resources,72430,Lagos,Good
+Emeka Ibrahim,Male,Legal,71690,Abuja,Good
+Yetunde Adeyemi,Female,Services,42300,Abuja,Good
+Bola Hartshorne,Male,Engineering,112900,Kaduna,Good
+Marlie Peasegood,Male,Marketing,77850,Lagos,Not Rated
+Ada Blumson,Female,Human Resources,52690,Lagos,Average
+Blessing Gamlin,Female,Finance,102470,Abuja,Average
+Emmanuel Engleton,Male,Sales,66600,Lagos,Average
+Saunders Engleton,Male,Engineering,102200,Abuja,Very Good
+Rasla Musa,Female,Support,33240,Lagos,Not Rated
+Willi Obi,Female,Human Resources,70430,Lagos,Good
+Ches Bello,Male,Services,39470,Lagos,Average
+Rasla Obi,Female,Sales,81260,Kaduna,Good
+Rasla Vasey,Male,Business Development,74800,Abuja,Good
+Sidoney Vasey,Female,Business Development,79870,Abuja,Not Rated
+Rayna Grigorey,,Operations,85290,Abuja,Good
+Marlie Gamlin,Male,Engineering,144260,Kaduna,Not Rated
+Femi Fisby,Male,Services,47550,Abuja,Good
+Aisha Adeyemi,Female,Services,51480,Abuja,Good
+Ches Yitzhok,Male,Support,77720,Abuja,Average
+Yetunde Fisby,Female,Sales,58090,Abuja,Good
+Ada Bello,Female,Engineering,46420,Abuja,Not Rated
+Garwin Fisby,Female,Operations,50470,Lagos,Not Rated
+Rasla Charsley,Female,Marketing,58040,Lagos,Good
+Rasla Engleton,Female,Services,84220,Abuja,Average
+Samuel Vasey,Male,Services,38280,Lagos,Good
+Adella Musa,Female,Finance,110690,Lagos,Very Good
+Ada Charsley,Female,Engineering,86930,Abuja,Very Good
+Emmanuel Gamlin,Male,Sales,108970,Abuja,Poor
+Willi Yitzhok,Female,Sales,96930,Abuja,Average
+Rasla Bonnell,Male,Support,,Lagos,Average
+Rayna Peasegood,,Marketing,74800,Kaduna,Poor
+Garwin Bonnell,Female,Support,49550,Abuja,Not Rated
+Yetunde Blumson,Female,Business Development,41760,Abuja,Good
+Ngozi Obi,Female,Business Development,100260,Kaduna,Poor
+Blessing Ibrahim,Female,Engineering,104150,Lagos,Good
+Blessing Charsley,Female,Legal,,Abuja,Poor
+Femi Musa,Male,NULL,104050,Abuja,Not Rated
+Sidoney Yitzhok,Female,Services,45510,Lagos,Poor
+Gardy Obi,Female,Marketing,73280,Kaduna,Poor
+Rasla Blumson,Female,Engineering,86670,Abuja,Not Rated
+Marlie Hartshorne,Male,Services,56020,Abuja,Good
+Emeka Charsley,Male,Support,64900,Lagos,Good
+Fatima Ibrahim,Female,Sales,54290,Lagos,Average
+Rasla Okafor,Male,Business Development,78850,Abuja,Not Rated
+Adella Charsley,Female,Engineering,78720,Abuja,Average
+Adella Ibrahim,Female,Engineering,97000,Abuja,Poor
+Tunde Engleton,Male,Support,82580,Lagos,Poor
+Marlie Ibrahim,Male,Support,45160,Lagos,Average
+Gardy Gamlin,Female,Business Development,93000,Kaduna,Average
+Yetunde Gamlin,Female,Support,81180,Kaduna,Good
+Adella Musa,Female,Support,61180,Abuja,Poor
+Chukwu Ibrahim,Male,Sales,44170,Abuja,Good
+James Yitzhok,Male,Finance,96440,Lagos,Good
+Selby Yitzhok,Male,Engineering,90710,Abuja,Poor
+Fatima Hartshorne,Female,Support,25000,Abuja,Very Good
+Femi Peasegood,,Business Development,81680,Abuja,Very Good
+Amaka Grigorey,Female,Engineering,100570,Abuja,Average
+Ches Fisby,Male,Engineering,100650,Kaduna,Very Good
+Ngozi Bello,Female,Support,58740,Lagos,Poor
+Gardy Bello,Female,Support,45870,Lagos,Poor
+James Musa,Male,Sales,90060,Lagos,Not Rated
+Garwin Bonnell,Female,Finance,82160,Lagos,Good
+Adella Fisby,Female,Sales,83720,Kaduna,Good
+Gardy Eze,Female,Marketing,71220,Kaduna,Not Rated
+Willi Charsley,Female,Marketing,54970,Kaduna,Average
+Fatima Engleton,Female,Finance,118400,Abuja,Average
+Rasla Okafor,Female,Finance,118640,Lagos,Poor
+Tunde Hacker,Male,Services,59250,Lagos,Very Good
+Adella Gamlin,Female,Business Development,120070,Abuja,Very Good
+Rasla Bello,Male,Engineering,138660,Lagos,Average
+Sidoney Vasey,Female,Sales,76900,Lagos,Not Rated
+Blessing Musa,Female,Legal,93790,Abuja,Good
+Rasla Eze,Female,Sales,77220,Kaduna,Average
+Garwin Hartshorne,Female,Business Development,78720,Abuja,Not Rated
+Samuel Hacker,Male,Sales,68390,Lagos,Good
+Chukwu Grigorey,Male,Operations,85200,Abuja,Not Rated
+Emeka Eze,Male,Support,41510,Abuja,Average
+James Musa,Male,Operations,59160,Lagos,Very Good
+Ngozi Peasegood,Female,Services,52480,Abuja,Good
+Ches Ibrahim,Male,Marketing,50360,Lagos,Good
+Willi Hacker,Female,Support,44070,Kaduna,Good
+Chisom Eze,Female,Services,68710,Kaduna,Good
+Ngozi Peasegood,Female,Finance,97600,Lagos,Good
+Blessing Bello,Female,Engineering,79700,Abuja,Poor
+Ngozi Vasey,Female,Sales,68630,Abuja,Not Rated
+Blessing Gamlin,Female,Marketing,79310,Lagos,Average
+Rasla Musa,Male,Support,86870,Lagos,Average
+Chisom Hacker,Female,NULL,55620,Lagos,Average
+Aisha Vasey,Female,Engineering,64330,Kaduna,Good
+Willi Yitzhok,Female,NULL,117090,Kaduna,Not Rated
+Bola Adeyemi,Male,Sales,60860,Lagos,Average
+Rasla Fisby,Female,Marketing,82070,Lagos,Good
+Yetunde Bello,Female,Engineering,73460,Kaduna,Not Rated
+Marlie Bonnell,Male,Support,38220,Abuja,Very Good
+Rasla Fisby,Male,Sales,58150,Kaduna,Very Good
+Ada Bello,Female,Services,74060,Abuja,Average
+Ngozi Charsley,Female,Marketing,95660,Kaduna,Not Rated
+Ngozi Bello,Female,Support,65000,Abuja,Poor
+Bola Musa,Male,Human Resources,44800,Abuja,Good
+Saunders Blumson,Male,Business Development,92910,Kaduna,Good
+Uche Charsley,Male,Services,69800,Lagos,Poor
+James Bello,Male,Engineering,87160,Lagos,Good
+Garwin Fisby,Female,Sales,72340,Abuja,Very Good
+Aisha Adeyemi,Female,Marketing,79710,Lagos,Not Rated
+Emmanuel Engleton,Male,NULL,68170,Abuja,Average
+Ches Grigorey,Male,Business Development,81460,Abuja,Poor
+Adella Grigorey,Female,Support,77940,Kaduna,Good
+Rayna Peasegood,Female,Legal,85780,Lagos,Not Rated
+Sidoney Musa,Female,Engineering,,Abuja,Average
+Adella Eze,Female,Finance,139020,Kaduna,Very Good
+Sidoney Musa,Female,Business Development,86240,Abuja,Very Good
+Garwin Hartshorne,Female,Sales,80030,Lagos,Average
+Samuel Hacker,Male,Support,60500,Abuja,Average
+Amaka Grigorey,Female,Human Resources,77170,Lagos,Good
+Uche Musa,Male,Finance,66410,Abuja,Good
+Samuel Adeyemi,,Legal,103910,Lagos,Good
+Garwin Vasey,Female,Support,66770,Abuja,Very Good
+Yetunde Okafor,Female,Legal,59710,Lagos,Poor
+Samuel Charsley,Male,Engineering,80860,Lagos,Average
+Garwin Bello,Male,Support,56040,Abuja,Not Rated
+Femi Hacker,Male,Sales,66680,Lagos,Average
+Fatima Bello,Female,Finance,79020,Abuja,Average
+Sidoney Hartshorne,Female,Business Development,74430,Lagos,Good
+Yetunde Gamlin,Female,Legal,139870,Lagos,Good
+Sidoney Musa,Female,Support,57660,Lagos,Average
+Willi Hacker,,Support,54150,Kaduna,Good
+Aisha Nwosu,Female,Business Development,69180,Kaduna,Average
+Ada Adeyemi,Female,Operations,38340,Lagos,Average
+Fatima Adeyemi,Female,NULL,91260,Abuja,Very Good
+Emmanuel Peasegood,Male,Finance,102590,Kaduna,Average
+Rasla Blumson,Male,Engineering,75740,Lagos,Average
+Garwin Yitzhok,Male,Finance,81900,Lagos,Not Rated
+Amaka Ibrahim,Female,Sales,46970,Lagos,Good
+Garwin Okafor,Female,Support,37520,Kaduna,Not Rated
+Aisha Vasey,Female,Services,36990,Lagos,Average
+Chisom Ibrahim,Female,Services,67710,Lagos,Average
+Chukwu Hacker,Male,Support,33500,Abuja,Not Rated
+Femi Fisby,Male,Operations,61200,Lagos,Very Good
+Rasla Yitzhok,Male,Human Resources,38930,Lagos,Average
+Selby Hacker,Male,Business Development,42980,Lagos,Good
+Uche Bonnell,Male,Engineering,111600,Lagos,Good
+Sidoney Engleton,Female,Sales,89570,Lagos,Average
+Ngozi Ibrahim,Female,Services,76310,Lagos,Good
+Yetunde Hartshorne,Female,Support,52130,Abuja,Poor
+Yetunde Blumson,Female,Engineering,79450,Lagos,Very Good
+Rayna Okafor,Female,Sales,77350,Lagos,Very Good
+Emeka Obi,Male,Marketing,70350,Abuja,Not Rated
+Garwin Hacker,Male,Sales,101710,Abuja,Good
+Rayna Bonnell,Female,NULL,100580,Lagos,Very Good
+Samuel Hartshorne,Male,Sales,46140,Kaduna,Very Good
+Blessing Engleton,Female,Engineering,117800,Abuja,Good
+David Obi,Male,Business Development,101470,Lagos,Good
+Blessing Fisby,Female,Engineering,94930,Lagos,Poor
+David Obi,Male,Engineering,100400,Abuja,Average
+Ches Grigorey,Male,Legal,122400,Abuja,Very Good
+Yetunde Eze,Female,Services,77490,Abuja,Not Rated
+Tunde Adeyemi,Male,Engineering,,Lagos,Average
+Fatima Fisby,Female,Support,93540,Lagos,Not Rated
+Selby Hartshorne,Male,Sales,73460,Lagos,Very Good
+David Charsley,Male,Legal,81770,Lagos,Good
+Emeka Obi,Male,Sales,87980,Abuja,Not Rated
+Ada Engleton,Female,Legal,82790,Abuja,Very Good
+Rayna Vasey,Female,Sales,62540,Lagos,Good
+Rasla Eze,,Marketing,72960,Kaduna,Average
+Sidoney Eze,,Sales,71950,Abuja,Not Rated
+Chukwu Charsley,Male,Human Resources,71420,Abuja,Very Good
+Rasla Hartshorne,Female,Sales,71730,Lagos,Good
+Adella Musa,Female,Legal,115870,Lagos,Average
+Garwin Obi,Female,Business Development,92480,Lagos,Good
+Marlie Okafor,Male,Engineering,52270,Lagos,Not Rated
+David Engleton,,Business Development,83090,Abuja,Average
+Femi Obi,Male,Support,25000,Abuja,Good
+Bola Engleton,Male,Sales,68950,Abuja,Good
+Gardy Bonnell,Female,NULL,111080,Abuja,Average
+Chisom Obi,,Support,66480,Lagos,Average
+Fatima Vasey,Female,Finance,96370,Kaduna,Very Good
+Adella Musa,Female,Sales,94010,Abuja,Very Good
+Adella Blumson,Female,Engineering,94160,Lagos,Average
+Amaka Bonnell,Female,Support,70230,Abuja,Poor
+Gardy Engleton,Female,Business Development,69320,Lagos,Not Rated
+Uche Obi,Male,Business Development,83620,Abuja,Poor
+Bola Nwosu,Male,Services,55280,Lagos,Average
+Garwin Peasegood,Female,Sales,64670,Lagos,Average
+Emeka Blumson,Male,Human Resources,62120,Lagos,Good
+Rasla Engleton,Male,Business Development,71210,Abuja,Good
+Adella Bonnell,Female,Human Resources,,Lagos,Average
+Adella Charsley,Female,Human Resources,64540,Lagos,Poor
+Ada Hacker,Female,NULL,65200,Lagos,Average
+David Adeyemi,Male,Sales,54540,Kaduna,Not Rated
+James Peasegood,Male,Sales,,Lagos,Very Good
+Samuel Eze,Male,Business Development,126680,Lagos,Not Rated
+Samuel Hartshorne,Male,Engineering,145480,Lagos,Very Good
+Adella Obi,Female,Human Resources,46640,Kaduna,Poor
+David Musa,,Legal,76410,Lagos,Very Good
+Garwin Grigorey,Male,Legal,68250,Abuja,Average
+Chisom Okafor,Female,Services,69470,Lagos,Good
+Emmanuel Blumson,,Engineering,96250,Abuja,Good
+Uche Bello,Male,Support,56670,Kaduna,Not Rated
+Bola Obi,Male,Business Development,43880,Kaduna,Good
+Aisha Okafor,Female,Operations,54520,Abuja,Not Rated
+Gardy Gamlin,Female,Sales,77370,Abuja,Poor
+Blessing Peasegood,Female,Support,86530,Lagos,Average
+Uche Okafor,Male,Support,75920,Abuja,Very Good
+Bola Charsley,Male,Engineering,113370,Lagos,Very Good
+Amaka Obi,Female,Human Resources,47450,Kaduna,Poor
+Selby Hacker,Male,Services,71710,Lagos,Not Rated
+Amaka Blumson,Female,Finance,113340,Lagos,Average
+Willi Blumson,Female,Finance,97660,Kaduna,Average
+Yetunde Bonnell,Female,Business Development,126400,Abuja,Poor
+Chisom Obi,Female,Support,73700,Abuja,Average
+Rayna Yitzhok,Female,Human Resources,62510,Lagos,Good
+Aisha Eze,Female,Support,47780,Lagos,Average
+Adella Nwosu,Female,Sales,74730,Lagos,Very Good
+Gardy Nwosu,Female,Sales,70360,Lagos,Average
+Aisha Bello,Female,Finance,69200,Lagos,Average
+Amaka Blumson,Female,Legal,91150,Kaduna,Average
+Femi Charsley,Male,Support,40610,Abuja,Average
+Marlie Nwosu,Male,Support,71270,Lagos,Very Good
+Samuel Adeyemi,Male,Engineering,94700,Lagos,Good
+Samuel Nwosu,,Services,48770,Lagos,Average
+Gardy Okafor,Female,Support,25000,Abuja,Very Good
+Blessing Gamlin,Female,Sales,62350,Lagos,Good
+David Yitzhok,Male,Services,,Abuja,Good
+Sidoney Bello,Female,Support,45340,Abuja,Good
+Blessing Musa,Female,Support,46800,Lagos,Average
+Gardy Grigorey,Female,Operations,70710,Abuja,Average
+Amaka Hartshorne,Female,Engineering,94770,Lagos,Good
+Bola Musa,Male,Legal,82150,Abuja,Poor
+David Hartshorne,,Services,31930,Lagos,Not Rated
+Garwin Engleton,Male,Engineering,109100,Abuja,Poor
+Samuel Vasey,Male,Marketing,86170,Lagos,Good
+Adella Eze,Female,Business Development,92440,Abuja,Average
+Ches Okafor,Male,Engineering,26000,Abuja,Poor
+Adella Bello,Female,Marketing,67930,Lagos,Not Rated
+Rayna Blumson,Female,Services,54260,Lagos,Not Rated
+Femi Fisby,Male,NULL,102910,Lagos,Not Rated
+Fatima Hacker,Female,Marketing,76510,Lagos,Average
+Yetunde Grigorey,Female,Engineering,89600,Lagos,Average
+Blessing Engleton,Female,Business Development,90280,Kaduna,Very Good
+Tunde Obi,Male,Human Resources,49770,Lagos,Average
+Rasla Obi,Female,Business Development,76420,Kaduna,Good
+Fatima Bonnell,Female,Support,46210,Abuja,Not Rated
+Adella Engleton,Female,Support,72320,Lagos,Poor
+Fatima Charsley,Female,Sales,56690,Lagos,Very Good
+Samuel Vasey,Male,Business Development,66950,Kaduna,Very Good
+Bola Hacker,Male,NULL,87500,Abuja,Good
+Aisha Bonnell,Female,Legal,102400,Lagos,Good
+Femi Peasegood,Male,Legal,75610,Lagos,Poor
+Rasla Bonnell,Female,Finance,77070,Lagos,Average
+Samuel Charsley,Male,Engineering,112290,Kaduna,Average
+Chukwu Adeyemi,Male,Finance,,Abuja,Very Good
+Sidoney Hacker,Female,Sales,101360,Lagos,Good
+Bola Vasey,Male,Services,74990,Lagos,Average
+Garwin Nwosu,Male,Sales,40580,Lagos,Average
+Ada Adeyemi,Female,NULL,,Abuja,Very Good
+Ches Engleton,Male,Services,36540,Lagos,Not Rated
+David Ibrahim,Male,Marketing,84080,Lagos,Average
+Willi Nwosu,Female,Sales,112280,Lagos,Good
+Selby Adeyemi,Male,Engineering,34240,Abuja,Good
+Gardy Hartshorne,Female,Support,58010,Abuja,Average
+David Gamlin,Male,Engineering,72890,Lagos,Poor
+Rasla Adeyemi,Female,Sales,88840,Lagos,Very Good
+Bola Hartshorne,Male,Business Development,63350,Abuja,Not Rated
+Ngozi Charsley,Female,Services,82480,Lagos,Not Rated
+Aisha Charsley,Female,Engineering,85470,Lagos,Average
+Chisom Gamlin,Female,Legal,103860,Lagos,Good
+Willi Charsley,Female,Business Development,76540,Abuja,Not Rated
+Emeka Hacker,Male,Human Resources,29010,Lagos,Good
+Ada Ibrahim,Female,Support,68250,Lagos,Good
+David Hartshorne,Male,Business Development,65130,Abuja,Very Good
+Fatima Bonnell,Female,Sales,91780,Lagos,Good
+James Ibrahim,Male,Legal,44220,Abuja,Poor
+Adella Fisby,Female,Support,76170,Lagos,Not Rated
+Aisha Obi,Female,Business Development,73310,Abuja,Average
+Emeka Engleton,Male,Support,48980,Abuja,Not Rated
+Chisom Peasegood,Female,NULL,59310,Lagos,Very Good
+Fatima Fisby,Female,Sales,36320,Abuja,Good
+Ngozi Hartshorne,Female,Operations,61830,Kaduna,Very Good
+Adella Adeyemi,Female,NULL,79960,Kaduna,Very Good
+Ches Gamlin,Male,Business Development,90920,Lagos,Good
+Ngozi Peasegood,Female,Finance,112560,Abuja,Very Good
+Marlie Yitzhok,Male,Finance,72290,Kaduna,Very Good
+Adella Blumson,,Sales,74080,Lagos,Good
+Rasla Musa,Female,Finance,90390,Kaduna,Very Good
+Rasla Hacker,Male,Services,58750,Kaduna,Very Good
+Tunde Hartshorne,Male,Human Resources,72680,Lagos,Average
+Uche Hartshorne,Male,Operations,56450,Abuja,Average
+Blessing Charsley,Female,Engineering,79720,Abuja,Average
+David Adeyemi,Male,Operations,79130,Lagos,Good
+Chisom Bonnell,Female,Operations,75170,Kaduna,Average
+Rasla Engleton,Male,Finance,101590,Lagos,Average
+Amaka Peasegood,Female,Engineering,94700,Lagos,Good
+Chisom Hartshorne,Female,Sales,68520,Kaduna,Average
+Aisha Bello,Female,Support,64870,Lagos,Average
+Chisom Musa,Female,Finance,74720,Lagos,Very Good
+Ches Gamlin,Male,Business Development,63080,Kaduna,Not Rated
+Ada Charsley,Female,Engineering,110050,Kaduna,Average
+Rasla Fisby,Male,Legal,89930,Lagos,Average
+Aisha Bonnell,Female,Support,71990,Lagos,Good
+Chukwu Hartshorne,Male,Legal,82060,Lagos,Very Good
+Marlie Fisby,Male,Finance,77400,Abuja,Poor
+Tunde Obi,Male,Support,26030,Abuja,Average
+Ngozi Charsley,Female,Engineering,111820,Abuja,Very Good
+Emmanuel Okafor,Male,Support,57510,Kaduna,Good
+Ada Hartshorne,Female,Human Resources,62140,Lagos,Very Good
+David Gamlin,Male,Support,46620,Kaduna,Very Good
+Blessing Vasey,Female,Finance,86780,Lagos,Very Good
+Amaka Eze,Female,Engineering,63480,Lagos,Good
+Garwin Engleton,,Marketing,79330,Lagos,Good
+Ngozi Bonnell,Female,Business Development,88800,Lagos,Not Rated
+Ches Ibrahim,Male,Engineering,128710,Lagos,Good
+Rasla Hartshorne,Female,Services,49280,Abuja,Not Rated
+Gardy Musa,Female,Operations,69040,Lagos,Very Good
+Garwin Nwosu,Female,Marketing,65510,Lagos,Not Rated
+Fatima Nwosu,Female,Services,61560,Abuja,Not Rated
+Emeka Okafor,Male,Sales,50970,Abuja,Very Good
+Gardy Bello,Female,Engineering,137830,Lagos,Good
+Amaka Okafor,Female,Legal,66060,Lagos,Very Good
+Rasla Hartshorne,Male,NULL,66280,Abuja,Very Good
+Selby Adeyemi,Male,Support,54940,Lagos,Poor
+Emeka Musa,Male,Legal,77640,Abuja,Good
+Yetunde Hartshorne,,Engineering,120500,Lagos,Poor
+Chisom Bello,Female,Sales,70420,Abuja,Very Good
+Chukwu Nwosu,Male,Services,44240,Abuja,Good
+Gardy Yitzhok,Female,Engineering,127740,Abuja,Poor
+Selby Bonnell,Male,Sales,,Lagos,Average
+Emmanuel Bonnell,Male,Engineering,138280,Abuja,Good
+Emeka Fisby,Male,Sales,76530,Abuja,Not Rated
+Chisom Fisby,Female,Business Development,91760,Abuja,Good
+Garwin Blumson,Male,Engineering,153730,Lagos,Good
+Garwin Peasegood,Female,Sales,34950,Abuja,Good
+Adella Engleton,Female,Engineering,,Lagos,Good
+Ches Musa,Male,Finance,123430,Lagos,Good
+Emmanuel Charsley,Male,Human Resources,59490,Abuja,Good
+Adella Bello,Female,Business Development,67130,Lagos,Very Good
+Yetunde Engleton,Female,Finance,105730,Kaduna,Average
+Rasla Eze,Male,Finance,110700,Lagos,Average
+Marlie Bello,Male,Business Development,87760,Lagos,Poor
+Willi Gamlin,Female,Legal,,Lagos,Very Good
+Tunde Blumson,Male,Support,59160,Lagos,Average
+Amaka Engleton,Female,Legal,91200,Lagos,Not Rated
+Gardy Hartshorne,Female,Engineering,67580,Lagos,Very Good
+Garwin Nwosu,Male,Support,59970,Kaduna,Very Good
+Bola Vasey,Male,Sales,45000,Lagos,Good
+Yetunde Ibrahim,Female,Finance,100630,Lagos,Very Good
+Chisom Nwosu,Female,NULL,,Kaduna,Good
+Rasla Musa,Female,Finance,93600,Abuja,Good
+Aisha Fisby,Female,Sales,54440,Kaduna,Good
+Blessing Yitzhok,Female,Sales,83750,Abuja,Good
+Selby Fisby,Male,Support,77030,Abuja,Good
+Samuel Hartshorne,Male,Human Resources,37680,Lagos,Good
+Garwin Grigorey,Female,Human Resources,47430,Lagos,Average
+Rasla Grigorey,Male,Finance,,Lagos,Good
+Chisom Gamlin,Female,Business Development,87320,Abuja,Not Rated
+Gardy Musa,Female,Services,45150,Lagos,Not Rated
+Ada Fisby,Female,Support,49670,Lagos,Average
+Ngozi Gamlin,Female,Support,65170,Abuja,Average
+Sidoney Grigorey,Female,Support,49520,Abuja,Good
+Ada Gamlin,Female,Business Development,100160,Lagos,Average
+Uche Peasegood,Male,Engineering,105230,Kaduna,Good
+Aisha Hacker,Female,Finance,84600,Kaduna,Good
+Tunde Ibrahim,Male,Legal,97410,Lagos,Average
+David Blumson,Male,Engineering,92880,Lagos,Not Rated
+Amaka Hartshorne,Female,Business Development,92210,Abuja,Good
+Adella Vasey,,Services,46060,Lagos,Not Rated
+Amaka Gamlin,Female,Services,42740,Lagos,Good
+Rasla Fisby,Male,Business Development,83840,Abuja,Good
+David Eze,Male,Support,30530,Abuja,Average
+Ada Vasey,Female,Support,90040,Lagos,Average
+Garwin Blumson,Female,Support,75450,Lagos,Good
+James Engleton,Male,Support,100280,Abuja,Average
+Rayna Nwosu,Female,Engineering,76490,Kaduna,Good
+Bola Okafor,Male,Sales,,Kaduna,Average
+Marlie Charsley,Male,Engineering,99840,Lagos,Average
+Fatima Grigorey,Female,Operations,46920,Lagos,Not Rated
+Bola Engleton,,Sales,58620,Lagos,Good
+Samuel Adeyemi,Male,Services,50220,Abuja,Good
+Chisom Blumson,Female,Support,62770,Lagos,Average
+Ngozi Grigorey,Female,NULL,27370,Abuja,Poor
+Blessing Eze,Female,Human Resources,65840,Kaduna,Average
+Fatima Bello,Female,Engineering,114190,Abuja,Very Good
+Yetunde Gamlin,Female,Human Resources,56260,Lagos,Average
+Willi Musa,Female,Services,56910,Abuja,Average
+Uche Blumson,Male,Marketing,79150,Lagos,Poor
+Garwin Gamlin,Female,Human Resources,76260,Lagos,Very Good
+Ada Nwosu,Female,Finance,79670,Kaduna,Average
+Ada Charsley,Female,Sales,63250,Kaduna,Not Rated
+Adella Peasegood,Female,Finance,99860,Lagos,Not Rated
+Rasla Obi,,Sales,71040,Abuja,Average
+Bola Hacker,,Engineering,103040,Lagos,Good
+Garwin Fisby,Female,Business Development,119900,Abuja,Very Good
+Garwin Engleton,Female,Human Resources,51660,Lagos,Not Rated
+Adella Blumson,Female,Support,40060,Lagos,Very Good
+Selby Fisby,Male,Business Development,59070,Abuja,Good
+Ngozi Vasey,Female,Engineering,108140,Lagos,Very Good
+Fatima Okafor,,Finance,78310,Lagos,Not Rated
+Adella Bonnell,Female,Engineering,,Lagos,Good
+Gardy Blumson,Female,Engineering,125170,Kaduna,Average
+Samuel Nwosu,Male,Legal,90820,Lagos,Good
+Gardy Musa,Female,Services,39590,Lagos,Very Good
+Blessing Peasegood,Female,Legal,82610,Abuja,Average
+Femi Yitzhok,Male,Services,83720,Lagos,Good
+Chukwu Charsley,Male,Finance,91130,Kaduna,Average
+Ches Yitzhok,Male,Operations,56960,Lagos,Poor
+Ada Ibrahim,Female,Finance,117100,Kaduna,Not Rated
+Adella Hacker,Female,Finance,71830,Abuja,Very Good
+Selby Obi,Male,Support,58930,Abuja,Very Good
+Rasla Nwosu,Male,Engineering,77380,Abuja,Very Good
+Saunders Peasegood,Male,Finance,101890,Abuja,Average
+Rasla Eze,Female,Operations,61630,Lagos,Very Good
+Garwin Nwosu,Female,Engineering,88080,Lagos,Poor
+Emeka Fisby,Male,Marketing,66170,Abuja,Not Rated
+Emeka Ibrahim,,Human Resources,40740,Lagos,Very Good
+Gardy Okafor,Female,Support,81950,Abuja,Good
+Saunders Fisby,Male,Support,75310,Lagos,Average
+Tunde Bello,Male,Operations,56790,Abuja,Good
+Rasla Fisby,Male,Engineering,89700,Kaduna,Good
+Chukwu Hartshorne,Male,Sales,40880,Lagos,Average
+Blessing Bonnell,Female,Human Resources,64060,Lagos,Good
+James Vasey,Male,Human Resources,63990,Lagos,Average
+Ada Bonnell,Female,Support,56010,Abuja,Not Rated
+Gardy Hartshorne,Female,Services,48870,Kaduna,Good
+Yetunde Obi,Female,Sales,48070,Lagos,Poor
+Ada Eze,Female,Marketing,69540,Lagos,Good
+Fatima Obi,Female,Support,72890,Abuja,Average
+Adella Adeyemi,Female,Sales,87610,Lagos,Good
+Ches Grigorey,Male,Operations,43700,Kaduna,Poor
+Rasla Yitzhok,Male,Sales,38380,Lagos,Not Rated
+Chisom Charsley,Female,Business Development,110180,Abuja,Average
+Adella Ibrahim,,Support,49480,Abuja,Good
+Gardy Bonnell,Female,Legal,103960,Lagos,Average
+Fatima Hacker,Female,Support,76330,Lagos,Very Good
+Amaka Eze,Female,Support,64280,Abuja,Good
+Ada Engleton,Female,Sales,69740,Lagos,Good
+Adella Fisby,Female,Support,67660,Kaduna,Good
+James Okafor,Male,Services,49610,Lagos,Not Rated
+Fatima Bonnell,Female,Marketing,61620,Lagos,Not Rated
+Rasla Adeyemi,Male,Services,70580,Lagos,Good
+Fatima Obi,Female,Business Development,86810,Abuja,Not Rated
+Gardy Eze,Female,Business Development,94530,Lagos,Good
+David Vasey,Male,Sales,48240,Abuja,Average
+Ada Fisby,Female,NULL,81940,Lagos,Good
+Marlie Bonnell,Male,Business Development,102720,Lagos,Not Rated
+Garwin Obi,Male,Legal,81710,Abuja,Poor
+Gardy Musa,Female,Business Development,105190,Kaduna,Very Good
+Bola Hartshorne,Male,Engineering,103800,Abuja,Good
+Marlie Bonnell,Male,Sales,43160,Abuja,Not Rated
+Ngozi Nwosu,Female,Engineering,88840,Abuja,Not Rated
+Yetunde Eze,Female,Sales,81190,Lagos,Good
+Amaka Musa,,Support,80360,Lagos,Good
+Fatima Peasegood,Female,Services,41330,Kaduna,Average
+Ngozi Eze,Female,Support,87480,Abuja,Poor
+Bola Peasegood,Male,Support,45160,Lagos,Good
+Bola Hartshorne,Male,Legal,114000,Abuja,Not Rated
+Ches Bello,Male,Support,67150,Lagos,Average
+Gardy Ibrahim,Female,Legal,73670,Lagos,Very Good
+Emmanuel Yitzhok,Male,Support,49660,Abuja,Average
+Ches Musa,Male,NULL,92340,Lagos,Good
+Yetunde Hartshorne,Female,Marketing,51380,Abuja,Good
+Willi Blumson,Female,Business Development,98330,Abuja,Not Rated
+Adella Gamlin,Female,Engineering,54210,Abuja,Very Good
+Rayna Ibrahim,Female,Support,88710,Lagos,Good
+Chisom Charsley,Female,Marketing,53820,Abuja,Good
+Adella Bello,Female,Human Resources,80030,Kaduna,Average
+Yetunde Adeyemi,Female,Engineering,84650,Lagos,Not Rated
+Rasla Okafor,Male,Human Resources,45210,Lagos,Very Good
+Selby Nwosu,Male,Engineering,122370,Kaduna,Good
+Sidoney Gamlin,Female,Business Development,86650,Lagos,Not Rated
+Adella Charsley,,Business Development,83520,Abuja,Not Rated
+Ches Engleton,Male,Human Resources,41660,Lagos,Not Rated
+Emeka Okafor,Male,Business Development,79960,Kaduna,Poor
+Adella Obi,Female,Sales,99390,Lagos,Not Rated
+Femi Hartshorne,Male,Engineering,92790,Lagos,Good
+Uche Hartshorne,Male,Legal,117070,Abuja,Average
+Emeka Grigorey,Male,Sales,84460,Lagos,Not Rated
+David Hacker,Male,Business Development,83830,Kaduna,Good
+Chisom Fisby,Female,Human Resources,36360,Lagos,Very Good
+James Bello,,Sales,66790,Abuja,Average
+Rasla Blumson,Male,Legal,88410,Lagos,Good
+Chukwu Bello,Male,Human Resources,44260,Lagos,Average
+Garwin Obi,Female,Services,,Abuja,Very Good
+Bola Ibrahim,Male,Services,58550,Lagos,Very Good
+Sidoney Charsley,Female,Finance,91080,Lagos,Average
+Adella Okafor,Female,Sales,71430,Abuja,Average
+Ngozi Vasey,Female,Legal,64040,Kaduna,Good
+Gardy Hacker,Female,NULL,141170,Lagos,Average
+Ada Musa,Female,Business Development,84060,Lagos,Very Good
+Fatima Grigorey,Female,Sales,77960,Lagos,Very Good
+Gardy Grigorey,Female,Sales,89510,Kaduna,Good
+Chisom Yitzhok,Female,Support,64670,Lagos,Not Rated
+Bola Grigorey,Male,Sales,72860,Lagos,Not Rated
+Rasla Adeyemi,Male,Support,64590,Lagos,Very Good
+Ches Okafor,Male,Operations,46130,Lagos,Poor
+Ada Charsley,Female,Finance,123060,Kaduna,Average
+Saunders Engleton,Male,Engineering,94760,Lagos,Good
+Rasla Peasegood,Male,Support,45270,Lagos,Very Good
+Marlie Musa,Male,Legal,88460,Kaduna,Very Good
+Willi Bonnell,Female,Sales,77230,Lagos,Not Rated
+Rasla Peasegood,Male,Finance,101770,Abuja,Poor
+Blessing Blumson,Female,Services,70760,Lagos,Average
+Amaka Ibrahim,,Marketing,61750,Lagos,Not Rated
+Ada Nwosu,Female,Business Development,66040,Lagos,Very Good
+Emeka Musa,Male,Support,56840,Kaduna,Good
+Fatima Blumson,Female,Engineering,70790,Lagos,Not Rated
+Garwin Blumson,Male,Support,59140,Abuja,Average
+Amaka Yitzhok,Female,Services,74630,Kaduna,Good
+Selby Engleton,Male,Legal,107040,Lagos,Not Rated
+Garwin Bello,Male,Engineering,79730,Kaduna,Good
+David Ibrahim,Male,Finance,100630,Kaduna,Not Rated
+Emeka Adeyemi,Male,Human Resources,46790,Abuja,Average
+Sidoney Blumson,Female,Human Resources,58000,Lagos,Good
+Ada Vasey,,Human Resources,45440,Lagos,Poor
+Uche Adeyemi,Male,Finance,93270,Lagos,Very Good
+Adella Eze,Female,Services,58680,Lagos,Good
+Amaka Yitzhok,Female,Support,53160,Lagos,Poor
+James Peasegood,Male,NULL,44900,Abuja,Average
+David Nwosu,Male,Operations,76670,Lagos,Average
+Bola Grigorey,,Support,52000,Abuja,Very Good
+Adella Hartshorne,Female,Support,46490,Lagos,Good
+Amaka Okafor,Female,Services,43870,Kaduna,Good
+Chisom Blumson,Female,Operations,50330,Lagos,Not Rated
+Samuel Grigorey,Male,Support,54890,Lagos,Average
+Rayna Vasey,Female,NULL,52260,Abuja,Average
+Rayna Obi,Female,Sales,68220,Kaduna,Average
+Uche Nwosu,Male,Finance,119900,Lagos,Poor
+Adella Fisby,Female,Legal,94820,Abuja,Poor
+Blessing Blumson,Female,Human Resources,38890,Kaduna,Good
+Willi Charsley,Female,Support,71810,Abuja,Very Good
+Chukwu Bonnell,Male,Services,53700,Lagos,Not Rated
+Rasla Musa,Female,Sales,47490,Lagos,Good
+James Engleton,Male,Engineering,121000,Lagos,Average
+Gardy Musa,Female,Support,78950,Kaduna,Good
+David Adeyemi,Male,Business Development,79480,Lagos,Very Good
+Bola Adeyemi,Male,Services,51360,Kaduna,Average
+Uche Bonnell,Male,Support,76750,Lagos,Good
+Ches Okafor,Male,Legal,126660,Abuja,Very Good
+Fatima Hartshorne,Female,Sales,59480,Lagos,Good
+Adella Obi,Female,Business Development,42980,Lagos,Average
+Ada Yitzhok,Female,Sales,110060,Abuja,Poor
+Saunders Okafor,Male,Marketing,76660,Lagos,Very Good
+Garwin Okafor,Female,Engineering,133960,Abuja,Poor
+David Vasey,Male,Finance,72670,Lagos,Very Good
+Garwin Fisby,Male,Support,58050,Kaduna,Not Rated
+Yetunde Vasey,Female,Sales,67010,Abuja,Good
+Sidoney Charsley,Female,Human Resources,36140,Lagos,Not Rated
+Ngozi Gamlin,Female,Sales,38470,Abuja,Average
+Uche Blumson,Male,Engineering,58870,Lagos,Very Good
+James Gamlin,Male,Services,43760,Abuja,Average
+Samuel Hartshorne,Male,Sales,74210,Lagos,Good
+Selby Engleton,Male,Finance,101690,Lagos,Good
+Chisom Eze,Female,Engineering,77020,Lagos,Good
+Garwin Adeyemi,Male,Services,50380,Kaduna,Very Good
+Sidoney Bello,Female,Legal,,Lagos,Very Good
+Garwin Obi,Female,Finance,81080,Kaduna,Good
+Chisom Okafor,Female,Support,,Abuja,Average
+Willi Eze,Female,Engineering,78700,Lagos,Very Good
+Uche Charsley,Male,Finance,66180,Lagos,Average
+Emeka Fisby,Male,Engineering,87140,Abuja,Not Rated
+Garwin Gamlin,Female,Sales,60620,Kaduna,Very Good
+Amaka Bello,Female,Finance,62420,Lagos,Average
+Ngozi Engleton,Female,Business Development,87060,Kaduna,Average
+Ches Eze,Male,Services,,Lagos,Good
+Aisha Adeyemi,Female,Business Development,68570,Lagos,Average
+Marlie Gamlin,Male,Services,50510,Kaduna,Good
+James Vasey,Male,Finance,47550,Lagos,Not Rated
+Aisha Grigorey,Female,Sales,59410,Lagos,Very Good
+Rasla Hartshorne,Male,Services,70120,Abuja,Very Good
+Rasla Obi,Female,NULL,50240,Kaduna,Average
+Fatima Adeyemi,Female,Services,72640,Lagos,Good
+Blessing Charsley,Female,Engineering,116900,Lagos,Average
+Tunde Okafor,,Support,54680,Abuja,Good
+Sidoney Engleton,Female,Services,42880,Abuja,Average
+Ada Charsley,Female,Services,48340,Abuja,Not Rated
+Amaka Grigorey,Female,Human Resources,56820,Abuja,Poor
+Adella Ibrahim,Female,Sales,81750,Abuja,Very Good
+Ada Grigorey,Female,Operations,60570,Kaduna,Very Good
+Ngozi Ibrahim,Female,Engineering,145270,Abuja,Very Good
+Rasla Grigorey,Female,Business Development,39820,Lagos,Not Rated
+Rasla Hartshorne,Female,Business Development,74240,Lagos,Very Good
+Ada Vasey,Female,Support,89330,Lagos,Poor
+Sidoney Obi,Female,Services,48010,Kaduna,Very Good
+Willi Obi,Female,Engineering,32150,Abuja,Not Rated
+Saunders Nwosu,Male,Services,39070,Lagos,Average
+Ngozi Yitzhok,Female,NULL,88380,Lagos,Good
+Yetunde Obi,Female,Human Resources,33110,Abuja,Average
+Ngozi Okafor,Female,Finance,114790,Abuja,Poor
+Adella Gamlin,Female,Engineering,73260,Lagos,Average
+Rasla Fisby,Male,Marketing,56940,Kaduna,Good
+Bola Hacker,Male,Services,25180,Abuja,Not Rated
+James Vasey,Male,Marketing,58760,Kaduna,Average
+Aisha Peasegood,Female,Engineering,72450,Lagos,Not Rated
+Garwin Charsley,Male,Support,55440,Abuja,Good
+Femi Musa,,Sales,67130,Abuja,Average
+Ada Bonnell,Female,Engineering,78210,Lagos,Very Good
+Rayna Musa,Female,Finance,90890,Lagos,Good
+Emeka Adeyemi,Male,Support,55300,Lagos,Not Rated
