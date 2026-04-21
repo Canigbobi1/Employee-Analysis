@@ -1,4 +1,4 @@
-# 👥 HR Employee Performance & Salary Analysis
+# HR Employee Performance & Salary Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python) ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi&logoColor=black) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen) ![Employees](https://img.shields.io/badge/Records-1%2C016_Employees-informational)
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project performs a comprehensive HR analytics deep-dive across **10 departments** and **3 Nigerian cities (Lagos, Abuja, Kaduna)**. The analysis covers the full analytics workflow: data quality assessment → cleaning → EDA → business insights → actionable bonus eligibility output.
 
@@ -14,7 +14,7 @@ An interactive **Power BI dashboard** (`Employee Analysis.pbix`) provides drill-
 
 ---
 
-## 🎯 Business Questions Answered
+## Business Questions Answered
 
 1. What is the salary distribution across departments and locations?
 2. Is there a measurable gender pay gap — and where is it worst?
@@ -24,7 +24,7 @@ An interactive **Power BI dashboard** (`Employee Analysis.pbix`) provides drill-
 
 ---
 
-## 🔍 Data Quality Issues Found & Fixed
+## Data Quality Issues Found & Fixed
 
 | Issue | Count | Resolution |
 |-------|-------|------------|
@@ -35,7 +35,7 @@ An interactive **Power BI dashboard** (`Employee Analysis.pbix`) provides drill-
 
 ---
 
-## 💡 Key Findings
+## Key Findings
 
 | # | Finding | Implication |
 |---|---------|-------------|
@@ -47,7 +47,7 @@ An interactive **Power BI dashboard** (`Employee Analysis.pbix`) provides drill-
 
 ---
 
-## 📊 Sample Visualisations
+## Sample Visualisations
 
 ### Salary Distribution by Department
 ![Salary Distribution](outputs/02_salary_distribution.png)
@@ -63,7 +63,7 @@ An interactive **Power BI dashboard** (`Employee Analysis.pbix`) provides drill-
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 Employee-Analysis/
@@ -81,7 +81,7 @@ Employee-Analysis/
 
 ---
 
-## 🛠️ Tools & Stack
+## Tools & Stack
 
 | Layer | Tool |
 |-------|------|
@@ -92,7 +92,7 @@ Employee-Analysis/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/Canigbobi1/Employee-Analysis.git
@@ -107,11 +107,11 @@ To view the dashboard, open `Employee Analysis.pbix` in **Power BI Desktop** (fr
 
 ## 👤 Author
 
-**Churchill Anigbobi** — Data Analyst | Power BI | Python | MSc AI (University of Bristol, incoming)
+**Churchill Anigbobi** — Data Analyst | Power BI | Python 
 
-- 🌐 [LinkedIn](https://linkedin.com/in/churchill-anigbobi)
-- 🐙 [GitHub](https://github.com/Canigbobi1)
-- 📧 canigbobi@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/churchill-anigbobi-1bba3b179/)
+- [GitHub](https://github.com/Canigbobi1)
+- canigbobi@gmail.com
 
 ---
 *Dataset is synthetic, structured to match real HR record patterns. Built for portfolio demonstration.*
